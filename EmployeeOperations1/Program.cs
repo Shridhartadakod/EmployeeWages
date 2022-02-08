@@ -9,6 +9,7 @@ namespace EmployeeOperations1
             CalculateWageforMonth.CalculateWagesFor20DaysInMonth();
             Console.ReadKey();
 
+
         }
     }
 

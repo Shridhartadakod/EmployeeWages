@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\bin\Debug\LineComparsion.exe.config
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\bin\Debug\LineComparsion.exe
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\bin\Debug\LineComparsion.pdb
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\obj\Debug\LineComparsion.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\obj\Debug\LineComparsion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\obj\Debug\LineComparsion.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\obj\Debug\LineComparsion.exe
+C:\Users\Dell\source\repos\LineComparsion\LineComparsion\obj\Debug\LineComparsion.pdb
